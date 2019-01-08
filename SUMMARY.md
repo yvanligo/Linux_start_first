@@ -5,4 +5,5 @@
 * [第二章：用户](chapter2.md)
 * [第三章：文件](chapter3.md)
 * [第四章：目录](chapter4.md)
+* [第五章：变量](chapter5.md)
 
